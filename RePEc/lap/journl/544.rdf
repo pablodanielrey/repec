@@ -1,0 +1,25 @@
+Template-Type: ReDIF-Article 1.0
+
+Author-Name: Marcelo Oviedo
+
+Author-Workplace-Name: Department of Economics, Iowa State University
+
+Title: A Toolbox for the Numerical Study of Linear Dynamic Rational Expectations Models
+
+Abstract: By simplifying the computational tasks and by providing step-by-step explanations of the procedures required to study a linear dynamic rational expectations (LDRE) model, this paper and the accompanying “LDRE Toolbox” of Matlab functions guide a researcher with almost no experience in computational work to resolve and study his own model. After coding the model following specific guidelines, a single function call is all that is needed to log-linearize the model; simulate it under exogenous sequences of shocks; compute sample and population moment conditional models in the Real-Business-Cycles literature are solved and studied throughout to give detailed examples of the steps involved in solving and studying LDRE models using the LDRE Toolbox. Namely, the economies in Brock and Mirman (Optimal Growth and Uncertainty: the Discounted Case, Journal of Economic Theory 4(3): 479-513; 1972); King, Plosser, and Rebelo (Production, Growth and Business Cycles I: The Basic Neoclassical Model, Journal of Monetary Economics 21: 195-232; 1988); and Mendoza (Real Business Cycles in a Small Open Economy, American Economic Review 81(4): 797-818; 1991).
+
+Classification-JEL: C63, C68, E32, F41
+
+Journal: Económica
+Pages: 91-136
+Volume: LI
+Issue: 1-2
+Year: 2005
+Month: January-December 
+
+File-URL: http://www.depeco.econo.unlp.edu.ar/economica/ing/resumen-articulo.php?param=5&param2=22
+File-Format: Application/pdf
+Handle: RePEc:lap:journl:544
+
+
+

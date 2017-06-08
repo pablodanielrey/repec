@@ -1,0 +1,27 @@
+Template-Type: ReDIF-Article 1.0
+
+Author-Name: Walter Sosa Escudero
+Author-Workplace-Name: Universidad Nacional de La Plata
+
+Author-Name: Leonardo Gasparini
+Author-Workplace-Name: Universidad Nacional de La Plata
+
+Title: A note on the Statistical Significance of Changes in Inequality  
+
+Abstract: This note illustrates how modern computer intensive tools like the bootstrap provide a simple and efficient way to compute interval estimates and standard errors for inequality measures. Additionally, the same methodology is used to implement a formal test of the null hypothesis of no changes in income inequality between two periods. Results are applied to the case of Argentina, where inequality varied substantially in the last decade, making crucial the issue of distinguishing sampling variability from true changes in the distribution of income. Our results show that the problem is not minor, since the observed changes un the Gini coefficients for several regions in Argentina are not statistically significant. 
+
+Classification-JEL: D3, D6, C4
+
+Journal: Económica
+Pages: 111-122
+Volume: XLVI
+Issue: 1
+Year: 2000
+Month: January-June
+
+File-URL: http://www.depeco.econo.unlp.edu.ar/economica/ing/resumen-articulo.php?param=12&param2=61
+File-Format: Application/pdf
+Handle: RePEc:lap:journl:511
+
+
+

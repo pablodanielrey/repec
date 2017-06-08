@@ -1,0 +1,31 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Walter Sosa Escudero
+Author-X-Name-First: Walter
+Author-X-Name-Last: Sosa Escudero
+Author-Email:  wsosa@udesa.edu.ar
+Author-Workplace-Name: Department of Economics Universidad de San Andrés
+
+Author-Name:  Anil K. Bera
+Author-X-Name-First: Anil K. 
+Author-X-Name-Last: Bera
+Author-Workplace-Name: Department of Economics University of Illinois
+
+Title: Tests for Unbalanced Error Component Models Under Local Misspecication
+
+Abstract: This paper derives unbalanced versions of the tests statistics for ¯rst order serial correlation
+and random individual e®ects summarized in Sosa Escudero and Bera (2001), and updates their xttest1
+routine. The derived tests statistics should be useful for applied researchers faced with the increasing
+availability of panel information where not every individual or country is observed for the full time span.
+Also, as it was the case of the previously available tests, the test statistics proposed here are based on
+the OLS residuals, and hence are computationally very simple.
+
+
+Length:  17 pages
+Creation-Date: 2008-03
+File-URL: http://cedlas.econo.unlp.edu.ar/archivos_upload/doc_cedlas65.pdf
+File-Format: Application/pdf
+Classification-JEL: C12, C23, C52.
+Keywords: error components model, unbalanced panel data, testing, misspecification.
+Handle: RePEc:dls:wpaper:0065
+
+ 

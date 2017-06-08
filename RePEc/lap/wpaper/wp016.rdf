@@ -1,0 +1,40 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Omar Arias
+Author-Name-First: Omar  
+Author-Name-Last: Arias
+Author-Name: Kevin F. Hallock
+Author-Name-First: Kevin  
+Author-Name-Last: Hallock
+Author-Name: Walter Sosa Escudero
+Author-Name-First: Walter   
+Author-Name-Last: Walter Sosa Escudero
+Title: Individual Heterogeneity in the Returns to Schooling: Instrumental Variables Quantile Regression using Twins Data
+Abstract: Considerable effort has been exercised recently in estimating mean returns to
+education while carefully considering biases arising from unmeasured ability and measurement
+error. Some of this work has also attempted to determine whether there are variations from
+the “mean” return to education across the population with mixed results. In this paper, we use
+recent extensions of instrumental variables techniques to quantile regression on a sample of
+twins to estimate an entire family of returns to education at different quantiles of the
+conditional distribution of wages while addressing simultaneity and measurement error biases.
+We test whether there is individual heterogeneity in returns to education against the alternative
+that there is a constant return for all workers. Our estimated model provides evidence of two
+sources of heterogeneity in returns to schooling. First, there is evidence of a differential effect
+by which more able individuals become better educated because they face lower marginal
+costs of schooling. Second, once this endogeneity bias is accounted for, our results provide
+evidence of the existence of actual heterogeneity in market returns to education consistent
+with a non-trivial interaction between schooling and unobserved abilities in the generation of
+earnings. The evidence suggests that higher ability individuals (those further to the right in the
+conditional distribution of wages) have higher returns to schooling but that returns vary
+significantly only along the lower quantiles to middle quantiles. In our final approach, the
+resulting estimated returns are never lower than 9 percent and can be as high as 13 percent at
+the top of the conditional distribution of wages, thus providing rather tight bounds on the true
+return to schooling. Our findings have meaningful implications for the design of educational
+policies.
+Length:  47 pages
+Creation-Date:  1999-08
+File-URL: http://www.depeco.econo.unlp.edu.ar/doctrab/doc16.pdf
+File-Format: Application/pdf
+Classification-JEL: C14, I2, J24, J31
+Handle: RePEc:lap:wpaper:016
+
+

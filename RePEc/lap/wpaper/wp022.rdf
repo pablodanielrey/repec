@@ -1,0 +1,39 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Anil Bera
+Author-Name-First: Anil
+Author-Name-Last: Bera
+Author-Name: Walter Sosa Escudero 
+Author-Name-First: Walter
+Author-Name-Last: Sosa Escudero
+Author-Name: Mann Yoon
+Author-Name-First: Mann
+Author-Name-Last: Yoon
+Title: Test for the Error Component Model in the Presence of Local Misspecification 
+Abstract: It is well known that most of the standard speci畚ation tests are not valid when the
+alternative hypothesis is misspeci疾d. This is particularly true in the error component
+model, when one tests for either random e容cts or serial correlation without taking account
+of the presence of the other e容ct. In this paper we study the size and power of the
+standard Rao's score tests analytically and by simulation when the data is contaminated
+by local misspeci畚ation. These tests are adversely a容cted under misspeci畚ation. We
+suggest simple procedures to test for random e容cts (or serial correlation) in the presence
+of local serial correlation (or random e容cts), and these tests require ordinary least
+squares residuals only. Our Monte Carlo results demonstrate that the suggested tests
+have good 疸ite sample properties for local misspeci畚ation, and in some cases even for
+far distant misspeci畚ation. Our tests are also capable of detecting the right direction
+of the departure from the null hypothesis. We also provide some empirical illustrations
+to highlight the usefulness of our tests.
+Length:  29 pages
+Creation-Date:  2000-03
+File-URL: http://www.depeco.econo.unlp.edu.ar/doctrab/doc22.pdf
+File-Format: Application/pdf
+Handle: RePEc:lap:wpaper:022
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+Template-Type: ReDIF-Paper 1.0
+
+Author-Name: Javier Alejo
+Author-X-Name-First: Javier
+Author-X-Name-Last: Alejo
+Author-Workplace-Name: CONICET-CEDLAS-UNLP
+
+Author-Name: Antonio Galvao
+Author-X-Name-First: Antonio
+Author-X-Name-Last: Galvao
+Author-Workplace-Name: University of Iowa
+
+Author-Name: Gabriel Montes-Rojas
+Author-X-Name-First: Gabriel
+Author-X-Name-Last: Montes-Rojas
+Author-Workplace-Name: CONICET-Universidad de San Andres
+
+Author-Name: Walter Sosa-Escudero
+Author-X-Name-First: Walter
+Author-X-Name-Last: Sosa-Escudero
+Author-Workplace-Name: Universidad de San Andres-CONICET
+
+Title: Tests for Normality in Linear Panel Data Models
+
+Abstract: A new Stata command, xtsktest, is proposed to explore
+non-normalities in linear panel data models. The tests explore skewness
+and excess kurtosis allowing researchers to identify departures away from
+gaussianity in both error components of a standard panel regression, sepa-
+rately or jointly. The tests are based on recent results by Galvao, Montes-
+Rojas, Sosa-Escudero and Wang (2013), and can be seen as extending the
+classical Bera-Jarque normality test for the case of panel data.
+
+Length: 12 pages
+Creation-Date: 2015-02
+File-URL: http://cedlas.econo.unlp.edu.ar/archivos_upload/doc_cedlas178.pdf
+File-Format: Application/pdf
+Classification-JEL: J08, J24, J68, O15. 
+Handle: RePEc:dls:wpaper:0178

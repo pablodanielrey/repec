@@ -1,0 +1,29 @@
+Template-Type: ReDIF-Article 1.0
+
+Author-Name: Hugo Roberto Balacco 
+Author-Workplace-Name: Facultad de Ciencias Económicas, Universidad Nacional de Cuyo 
+Author-Name: Gustavo Germán Maradona  
+Author-Workplace-Name: Facultad de Ciencias Económicas, Universidad Nacional de Cuyo 
+
+Title: Modelización y predicción de series de tiempo financieras utilizando redes neuronales
+
+Abstract: The purpose of this work is to model and predict Financials Time Series by using neural 
+networks. In order to achieve this aim, a recurrent total neural network with two hidden layers has 
+been chosen; one layer for the linear threshold function and the other for the arctangent function. 
+The series used in this research paper are the MERVAL index (Argentina) and the DOW JONES (USA). These 
+results are based on information obtained over a period that goes from 1995 to 2006. The presentation 
+will deal with the comparison of alternative techniques and the results obtained by other research 
+workers.
+Classification-JEL: C40
+
+Keywords: Neural Network, Forecast, Architecture Types, Transfer Functions, Mean Absolute Error.
+
+Journal: Económica
+
+Pages: 3-23
+Volume: LVII
+Year: 2011
+Month: January-December
+File-URL: http://economica.econo.unlp.edu.ar/documentos/20111229092452AM_Economica_574.pdf
+File-Format: Application/pdf
+Handle: RePEc:lap:journl:574

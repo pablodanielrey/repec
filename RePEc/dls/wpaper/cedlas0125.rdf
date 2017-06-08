@@ -1,0 +1,33 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Javier Alejo
+Author-X-Name-First: Javier
+Author-X-Name-Last: Alejo
+Author-Workplace-Name: Universidad Nacional de La Plata and CONICET
+Author-Name: María Florencia Gabrielli
+Author-X-Name-First: María Florencia
+Author-X-Name-Last: Gabrielli
+Author-Workplace-Name: Universidad Nacional de Cuyo and CONICET
+Author-Name: Walter Sosa Escudero
+Author-X-Name-First: Walter
+Author-X-Name-Last: Sosa Escudero
+Author-Workplace-Name: Universidad de San Andres and CONICET
+
+
+Title: The distributive Effects of Education: An Unconditional Quantile Regression Approach
+Abstract: En este trabajo utilizamos los más recientes métodos de regresión no condicionada 
+por cuantiles (RNCQ) para estudiar los efectos distributivos de la educación en Argentina. 
+Los métodos estándar se centran, por lo general, en efectos promedio o estudian los efectos 
+distributivos ya sea haciendo uso de suposiciones estrictas al modelar y/o a través de 
+descomposiciones contrafácticas que requieren varias observaciones temporales. La aplicación 
+empírica en este trabajo muestra la flexibilidad y utilidad de los métodos de RNCQ. Nuestra 
+aplicación para el caso de Argentina sugiere que la educación ha contribuido positivamente 
+al aumento de la desigualdad, debido principalmente a efectos fuertemente heterogéneos de la 
+educación sobre los ingresos.
+
+Length: 24 pages
+Creation-Date: 2011-11
+File-URL: http://cedlas.econo.unlp.edu.ar/archivos_upload/doc_cedlas125.pdf
+File-Format: Application/pdf
+Classification-JEL: C21, I24, I31, D3
+Keywords: unconditional quantile regression, income inequality, education, Argentina
+Handle: RePEc:dls:wpaper:0125
